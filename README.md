@@ -2,8 +2,6 @@
 
 If you want to discuss with me, I am on the [rust-lang zulip](https://rust-lang.zulipchat.com). You can also create a discussion in the [albertlarsan68/albertlarsan68](https://github.com/albertlarsan68/albertlarsan68) repo.
 
-Find when I am free on [this calendar](https://calendar.google.com/calendar/embed?src=albert.larsan%40gmail.com).
-
 <!--
 **albertlarsan68/albertlarsan68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
