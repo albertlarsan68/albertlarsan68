@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you want to discuss with me, I am on the [rust-lang zulip](https://rust-lang.zulipchat.com), and I monitor the ##AlbertLarsan68 channel on libera.chat ([webIRC](https://web.libera.chat/##AlbertLarsan68)). You can also create a discussion in the [albertlarsan68/albertlarsan68](https://github.com/albertlarsan68/albertlarsan68) repo.
+If you want to discuss with me, I hang on the [rust-lang zulip](https://rust-lang.zulipchat.com), and on Fedora matrix space. You can also create a discussion in the [albertlarsan68/albertlarsan68](https://github.com/albertlarsan68/albertlarsan68) repo.
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/albertlarsan68?logo=github)](https://github.com/sponsors/albertlarsan68)
 [![Liberapay patrons](https://img.shields.io/liberapay/patrons/AlbertLarsan68?logo=liberapay)](https://liberapay.com/AlbertLarsan68)
